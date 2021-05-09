@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor Reyes, aka @feydor
-- 👀 I’m interested web development, analog audio, cryptocurrencies, and praxeology.
-- 🌱 I’m currently learning full-stack development in React.JS, TypeScript, MongoDB, and Express.JS.
+- 👀 I’m interested in C programming, Linux, and praxeology.
+- 🌱 I’m currently wowking on libsaru, a family of libraries containing useful data structures.
 - 💞️ I’m looking to collaborate on interesting projects where I can develop my skills and knowledge.
 - 📫 Reach me any time at [my email](mailto:vreyes85739@outlook.com).
 
