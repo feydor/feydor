@@ -1,4 +1,6 @@
-```WALRUS```
+```python
+WALRUS
+```
 <!--
 - 👋 Hi, I’m Victor, aka @feydor.
 - 👀 I’m interested in C, C++, and Rust (basically systems programming).
